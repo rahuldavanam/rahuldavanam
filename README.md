@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently pursuing my Master's degree in Mechatronics at the University of Siegen and having graduated with a Bachelor's degree in Mechanical Engineering, I wish to make the best of both domains by contributing to the concept of computer vision, deep learning and machine learning, in particular autonomous driving.
+
 <!--
 **rahuldavanam/rahuldavanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
