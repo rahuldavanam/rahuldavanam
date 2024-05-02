@@ -2,6 +2,13 @@
 
 Currently pursuing my Master's degree in Mechatronics at the University of Siegen and having graduated with a Bachelor's degree in Mechanical Engineering, I wish to make the best of both domains by contributing to the concept of computer vision, deep learning and machine learning, in particular autonomous driving.
 
+How to reach me:
+* Email: rahuldavanam@gmail.com
+* LinkedIn: https://www.linkedin.com/in/rahul-davanam-9415b1149/
+* ![image](https://github.com/rahuldavanam/rahuldavanam/assets/149895204/032c7457-9846-4473-9a1e-5e38255322c5)
+
+
+
 <!--
 **rahuldavanam/rahuldavanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
