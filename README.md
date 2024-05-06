@@ -6,7 +6,6 @@ I'm currently working on developing an autonomous vehicle model on Carla Simulat
 
 How to reach me:
 * Email: rahuldavanam@gmail.com
-* LinkedIn: https://www.linkedin.com/in/rahul-davanam-9415b1149/
 
 <!--
 **rahuldavanam/rahuldavanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
